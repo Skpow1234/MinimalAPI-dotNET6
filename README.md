@@ -1,0 +1,1 @@
+# MinimalAPI-dotNET6
